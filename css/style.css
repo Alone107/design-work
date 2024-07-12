@@ -519,7 +519,7 @@ body {
   width: 100%;
   max-width: 1114px;
   height: 1px;
-  background-image: url("/images/icon/border-bottom.svg");
+  background-image: url("../images/icon/border-bottom.svg");
 }
 .services-accordeon-row label {
   position: relative;
@@ -541,7 +541,7 @@ body {
   top: 50%;
   right: 0;
   transform: translate(-50%);
-  background-image: url(/images/icon/arrow.svg);
+  background-image: url("../images/icon/arrow.svg");
   width: 30px;
   height: 15px;
   transform: rotate(180deg);
